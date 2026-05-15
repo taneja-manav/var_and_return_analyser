@@ -71,7 +71,7 @@ st.markdown("""
 # ─── Header ──────────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="main-header">
-    <h1>📉 Value at Risk Dashboard</h1>
+    <h1>📉 Value at Risk Dashboard(what's at risk)</h1>
     <p>Historical · Parametric · Monte Carlo — compare VaR across stocks and confidence levels</p>
 </div>
 """, unsafe_allow_html=True)
