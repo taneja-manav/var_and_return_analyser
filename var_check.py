@@ -28,7 +28,7 @@ st.markdown("""
         padding: 2rem 2.5rem;
         border-radius: 16px;
         margin-bottom: 1.5rem;
-        color: white;
+        color: red;
         text-align: center;
     }
     .main-header h1 { margin: 0; font-size: 2.2rem; font-weight: 700; letter-spacing: -0.5px; }
