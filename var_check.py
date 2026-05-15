@@ -72,7 +72,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📉 Value at Risk Dashboard(what's at risk)</h1>
-    <p>Historical · Parametric · Monte Carlo — compare VaR across stocks and confidence levels</p>
+    <p>Historical · Parametric · Monte Carlo — compare VaR across stocks and confidence levels,compare diffrent stocks and make the right choice to park your surplus</p>
 </div>
 """, unsafe_allow_html=True)
 
